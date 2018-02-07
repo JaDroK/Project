@@ -2,6 +2,8 @@ package BuscaMinas;
 import java.util.Scanner;
 import java.util.Random;
 
+// jgjgjg
+
 public class BuscaMines {
 	static Scanner reader = new Scanner(System.in);
 	static Random rnd = new Random();
